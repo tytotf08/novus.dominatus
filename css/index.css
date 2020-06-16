@@ -119,6 +119,9 @@ div#content p {
 div#content p strong {
 	font-weight: 700;
 }
+div#content p a {
+	font-weight: 300;
+}
 /* footer */
 footer {
 	font-family: 'Google Sans', Helvetica, Arial, sans-serif;
