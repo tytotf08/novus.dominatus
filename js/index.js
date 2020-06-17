@@ -16,7 +16,8 @@ function start() {
 		"Achieving Poweria brings you the most success in a Capitalist world.",
 		"Communism is the Satan of Economical states.",
 		"Love everybody, for you are all brothers.",
-		"Be a good person; you will be part of a good world."
+		"Be a good person; you will be part of a good world.",
+		"Never accept something for free nor give something for free."
 	];
 	var proverbEl = objProVerbs[Math.floor(Math.random()*objProVerbs.length)];
 	document.querySelector("#quote").innerHTML += proverbEl;

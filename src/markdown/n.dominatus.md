@@ -46,3 +46,21 @@ However, the bigger issue remained the placement of this new land. Eventually we
 Being a capitalist country, and the most successful on at that, our economy is one of the most stable ones that has ever existed. The government is given 20 out of every 100 bCoin that goes through the currency-processing network in _N. Dominatus_. We are against the _Balance Zero_ movement, aiming for an economic state where nobody ever has over zero bCoin. We believe that in a successful country, every has not no balance or low balance but high amounts in their account. That is why we succeed. We make sure everyone has what they need to earn a living in the real world, and their children, being of a wealthy family, also have good resources. The cycle continues. Every year, based on changes in economy and predictions as to the future state of our market based on varying factors, the supercomputer designs a curriculum. This logical, feature rich curriculum is one of the things that _N. Dominatus_ takes the most pride in. 
 
 The main area of profit for almost all Powerians is the stock market, this being one of the only games where nobody ever really dominates, where everyone can lose and will lose, inevitably. The government makes quite a bit of money from this ever-changing market. Taxes, the previously mentioned 20 out of 100, fall short in average earnings for the government to the stock market earnings by 20%. _Yes_, the government profits directly from the stock market. All money from the stock market goes towards making the citizens' lives better, happier, and more quality. The taxes are used to resolve non-citizens-relates matters.
+# Next Page: Citizens
+
+# Novus Dominatus - Citizens
+There are currently twelve citizens of Novus Dominatus. Please refer to the List of Citizens below to find a full index of these people. In Novus Dominatus, the people are a huge part of our country, all aiming for the same thing: justice and a utopian society. Most of us follow the principles of _Poweria_, a belief that everyone has power and perfection in them and can embody it. This results in a citizen of Novus Dominatus being a Powerian. _the Book of Poweria_, the Powerian constitution as well as honor code, was written all the way back in mid 2027, during the _Original Sin of Imperium_, when Great Britain claimed Australia, and all other bodies of Land in _Oceania_, to form Imperial Britain. London was renamed to the _Imperial City_, New Power City. More detail on this in the Archives, as well as the _Poweria_ page. A major value that all of us Powerians also honor is to give back. "Never accept something for free nor give something for free", states Sir Glitinery Marcuso, the General who lead the Imperium Sin.
+
+Below is a list of all of our citizens:
++ TytoTF08
++ LilNinoX
++ Covy
++ Anpanman
++ Humbie
++ Grumbie
++ Vishy 
++ Sunset
++ Talon
++ Stingray
++ tripaB
++ GangstaGold
