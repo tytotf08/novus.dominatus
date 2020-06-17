@@ -17,6 +17,9 @@ nav a {
 	border: solid #ffffff;
 	margin: auto 1rem auto 0;
 }
+nav a:hover {
+	color: #234891;
+}
 h1 {
 	color: #f78214;
 }
