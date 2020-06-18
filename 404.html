@@ -1,39 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>404 Error </title>
-	<script>
-		window.onload = function start() {
-			var proVerbs = [
-				"Be one with your fellow man and men, for together you are a force of reckoning.",
-				"Victory is not to survive a massacre, but rather to massacre the enemy and <em>not</em> let them survive.",
-				"Capitalism - a double edged sword.",
-				"Poweria is not the state of power, but the closest imitation to it us humans can conjure up.",
-				"You shan't not lose, but instead win.",
-				"People don't see what you actually are, but what you try to be.",
-				"The confines of society do not exist, Capitalism decrees.",
-				"Achieving Poweria brings you the most success in a Capitalist world.",
-				"Communism is the Satan of Economical states.",
-				"Love everybody, for you are all brothers.",
-				"Be a good person; you will be part of a good world."
-			];
-			var proVerb = proVerbs[Math.floor(Math.random()*proVerbs.length)]
-			console.log(proVerb);
-			document.getElementsByTagName("title").innerHTML += proVerb;
-		}
-	</script>
-	<style>
-		body {
-			font-family: sans-serif;
-		}
-		h1 {
-			font-family: monospace;
-		}
-	</style>
+	<title>404: Page Not Found</title>
+	<link rel = "stylesheet" href = "style/404/css"/>
+	<link rel = "stylesheet" href = "https://fonts.googleapis.com/css?family=Menlo"/>
+	<meta charset = "UTF-8"/>
 </head>
 <body>
-	<h1>404: Page not found.</h1>
-	<p>The requested page was not found. </p>
-	<a href = "/">Home</a>
+	<div><h1>Oops! This page doesn't exist.</h1><p>Maybe you mispelled the url or forgot some of those particular, miniscule details in it? Or maybe you are wishing for this page to exist?</p></div>
+	<a href = "/" id = "home"><< Home</a>
 </body>
 </html>

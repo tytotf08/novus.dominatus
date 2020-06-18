@@ -1,0 +1,25 @@
+body h1{
+	font-family: Menlo, monospace;
+}
+body p {
+	font-family: sans-serif;
+}
+body {
+	text-align: center;
+	width: 80%;
+	margin: 1rem auto;
+	min-height: 20rem;
+	border: solid 2px green;
+}
+a#home {
+	padding: 4px;
+	border: solid 1px;
+	color: #000000;
+	border-radius: 4px;
+	text-decoration: none;
+	font-family: Arial, sans-serif;
+}
+a#home:focus {
+	color: #ffffff;
+	background-color: #000000;
+}
