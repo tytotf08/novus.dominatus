@@ -1,5 +1,5 @@
 body {
-	background-color: #474747;
+	background-color: #212121;
 	font-family: 'Source Code Pro', monospace;
 	font-weight: 300;
 }
@@ -14,7 +14,7 @@ nav {
 	top: 1rem;
 	position: sticky;
 	border-radius: 0.25rem;
-	background-color: #b69fea;
+	background-color: #8e18c9;
 	line-height: 1.25rem;
 	padding: 1rem;
 }
