@@ -55,8 +55,7 @@ div#content h1 {
 	line-height: 2.4rem;
 }
 img#flag {
-	display: inline;
-	vertical-align: middle;
+	display: inline-block;
 	margin-right: 0.5rem;
 }
 div#content h2, h3, h4, h5, h6 {
