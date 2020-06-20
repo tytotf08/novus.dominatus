@@ -56,7 +56,7 @@ div#content h1 {
 }
 img#flag {
 	display: inline;
-	vertical-align: top;
+	vertical-align: middle;
 	margin-right: 0.5rem;
 }
 div#content h2, h3, h4, h5, h6 {
