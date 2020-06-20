@@ -2,9 +2,11 @@
 + Poweria
 + Citizens
 + Archives
+Indepence Day: 14th of December, 2047.
 
 # Novus Dominatus
-In the year 2050, Novus Dominatus is a city-state that runs on a Democratic Government and an extremely powerful supercomputer. It was founded following the human expansion to the far reaches of the Known Universe and the colonization of many planets, such as Pluto, Garbados, and some of the bigger meteors in the Oort cloud. The particular planet on which _N. Dominatus_ resides is EarT.H.13, the thirteenth planet on which humans have resided over all time. Set on an artificial island built by the [Japanese](https://en.wikipedia.org/wiki/Japan) in 2047, _N. Dominatus_ is one of the _Alpha_ Nations, which are the leaders of the thirteen planets colonized by humans. Because of their high position in the country hierarchy, they have an unlimited supply of bCoin, the virtual currency used by every country. The current version of bCoin is bCoin2.13, and a beta bCoin2.13.2. _N. Dominatus_ is the most stable capitalist country to have ever existed, with only 1% of all citizens with incomes below 500 bCoin.
+
+In the year 2050, Novus Dominatus is a city-state that runs on a Democratic Government and an extremely powerful supercomputer. It was founded following the human expansion to the far reaches of the Known Universe and the colonization of many planets, such as Pluto, Garbados, and some of the bigger meteors in the Oort cloud. The particular planet on which _N. Dominatus_ resides is EarT.H.13, the thirteenth planet on which humans have resided over all time. Set on an artificial island built by the [Japanese](https://en.wikipedia.org/wiki/Japan) in 2027, _N. Dominatus_ is one of the _Alpha_ Nations, which are the leaders of the thirteen planets colonized by humans. Because of their high position in the country hierarchy, they have an unlimited supply of bCoin, the virtual currency used by every country. The current version of bCoin is bCoin2.13, and a beta bCoin2.13.2. _N. Dominatus_ is the most stable capitalist country to have ever existed, with only 1% of all citizens with incomes below 500 bCoin.
 
 # Government
 
