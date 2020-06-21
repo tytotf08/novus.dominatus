@@ -54,7 +54,7 @@ div#content h1 {
 	border-bottom-color: #4dbbea;
 	line-height: 2.4rem;
 }
-img#flag {
+img.flag {
 	display: inline-block;
 	margin-right: 0.5rem;
 }
