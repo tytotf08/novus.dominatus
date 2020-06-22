@@ -50,3 +50,22 @@ ______________________________________________________
 # Citizens
 
 There are currently twelve citizens of Novus Dominatus. Please refer to the List of Citizens below to find a full index of these people. In Novus Dominatus, the people are a huge part of our country, all aiming for the same thing: justice and a utopian society. Most of us follow the principles of _Poweria_, a belief that everyone has power and perfection in them and can embody it. This results in a citizen of Novus Dominatus being a Powerian. _the Book of Poweria_, the Powerian constitution as well as honor code, was written all the way back in mid 2027, during the _Original Sin of Imperium_, when Great Britain claimed Australia, and all other bodies of Land in _Oceania_, to form Imperial Britain. London was renamed to the _Imperial City_, New Power City. More detail on this in the Archives, as well as the _Poweria_ page. A major value that all of us Powerians also honor is to give back. "Never accept something for free nor give something for free", states Sir Glitinery Marcuso, the General who lead the Imperium Sin and was the first leader of Imperial City.
+
+Citizens List:
+
++ TytoTF08
++ Covy
++ tripaB
++ Humbie
++ Grumbie
++ Talon
++ Sunset
++ Vishy
++ Stingray
++ Anpanman
++ Lil Nino X
+
+# Next Page: Poweria
+
+# Poweria
+Poweria - the reason that a citizen of _N. Dominatus_ is a _Powerian_. _Poweria_ is a belief that Power is not strength, but perfection and the ability to be a good person. Poweria is a state of being in which you embody this form of power.

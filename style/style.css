@@ -3,6 +3,18 @@ body {
 	font-family: 'Source Code Pro', monospace;
 	font-weight: 300;
 }
+div.flex-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0.5rem auto 0.5rem auto;
+	width: 99%;
+}
+.flex-child-half {
+	flex-basis: 50%;
+	display: block;
+	padding: 0.25rem;
+}
 nav {
 	margin: 1rem auto 1rem auto;
 	max-width: 93.5%;
