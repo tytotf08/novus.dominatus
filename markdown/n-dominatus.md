@@ -2,6 +2,7 @@
 + Poweria
 + Citizens
 + Archives
+
 Indepence Day: 14th of December, 2047.
 
 # Novus Dominatus
@@ -64,8 +65,9 @@ Citizens List:
 + Stingray
 + Anpanman
 + Lil Nino X
++ Bubbo
 
 # Next Page: Poweria
 
 # Poweria
-Poweria - the reason that a citizen of _N. Dominatus_ is a _Powerian_. _Poweria_ is a belief that Power is not strength, but perfection and the ability to be a good person. Poweria is a state of being in which you embody this form of power.
+_Poweria_ is a belief of N. Dominatus that you can be the best version of yourself, and that the best version of yourself is no better than anyone else' greatest self. Poweria is being this awesome being. Poweria is also what we call the journey towards this state. We believe that a country, such as N. Dominatus, can achieve this. This is the journey from a city built from war - to a nation full of peace.
