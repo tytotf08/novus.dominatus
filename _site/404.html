@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Error 404</title>
+	<link rel = "stylesheet" href = "/styles/roboto.css" type = "text/css"/>
+	<link rel = "stylesheet" href = "/styles/basic.css" type = "text/css"/>
+</head>
+<body>
+	<h2>Sorry,</h2>
+	<p style = "padding-left: 1rem;"><a id = "path"></a> sent a 404 error.</p>
+	<script type = "text/javascript">
+		document.querySelector("a#path").href = location.pathname;
+		document.querySelector("a#path").innerHTML = location.pathname;
+	</script>
+</body>
+</html>

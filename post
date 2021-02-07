@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+
+import os
+import sys
+from datetime import datetime
+argv = sys.argv
+
+print(argv)
+
+info = datetime.now()
+
+print(info)
+path = os.path.abspath("./_posts/" + str(info.year + 30) + "-" + str(info.month) + "-" + str(info.day) + "-" + argv[1]) + ".md"
+if len(argv) >= 2:
+	with open(path, "w") as f:
+		f.write("""---
+layout: default
+header: Novus Dominatus
+title: Novus Dominatus 
+---""")
+else:
+	sys.exit(print("post name required"))
