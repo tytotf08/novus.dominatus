@@ -35,6 +35,10 @@ nav {
 	color: #000000;
 }
 
+nav ul {
+	overflow: auto;
+}
+
 nav hr {
 	background-color: #000000;
 	border: solid 1px #000000;
