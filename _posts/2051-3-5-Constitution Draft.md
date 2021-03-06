@@ -12,7 +12,7 @@ Clauses are labeled as follows: Article.Part.Clause Position Alphabetized.
 
 And now, onto the Constitution.
 
-<hr/>
+<hr id = "divider"/>
 
 # The Constitution of Novus Dominatus
 ## Preamble
